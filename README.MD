@@ -4,6 +4,8 @@ Faaala dev!, seja bem-vindo a mais um projeto.
 
 Este Projeto é uma landing page para treinar funções e DOM com javascript e também aprender mais sobre display Grid e animações.
 
+Foi realizado um Bundle do JavaScript com o webpack. O código também foi modificado com babel para suportar e vários navegadores.
+
 ## <a href="https://renyzeraa.github.io/lp-animais-fantasticos/" > Deploy 🛫 </a>
 
 ### Para fazer este projeto usei 👇
