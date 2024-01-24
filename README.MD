@@ -1,7 +1,5 @@
 # Animais Fantásticos
 
-### Curso Origamid - HTML5 e CSS3
-
 Faaala dev!, seja bem-vindo a mais um projeto.
 
 Este Projeto é uma landing page para treinar funções e DOM com javascript e também aprender mais sobre display Grid e animações.
